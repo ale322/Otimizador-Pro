@@ -1,0 +1,8 @@
+{
+  "name": "Otimizador Pro Universal",
+  "description": "Aplicativo e Console de Diagnóstico, Otimização de RAM e Limpeza Profunda de Armazenamento para Android (AOSP, Samsung One UI, Xiaomi HyperOS, Motorola e Realme).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
